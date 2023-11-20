@@ -27,3 +27,8 @@ console.log(typeof anotherId);
 
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//stack memory(primitive)-jo bhi variable declare kiya hai uska copy milta hai,heap(non-primitive) reference(original valu me change hoga)
+//https://www.geeksforgeeks.org/memory-management-in-javascript/
+//https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/
+//watch 10th video 
