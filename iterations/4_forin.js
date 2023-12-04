@@ -1,5 +1,6 @@
 // for in loop
 //forof object keliye kaam nhi kar raha tha
+// forin mao me kaam nhi karta hai
 
 // const myObject = {
 //     js: 'javascript',
