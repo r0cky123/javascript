@@ -1,0 +1,10 @@
+=>events ka naam string me likhna hai
+=>read about event object
+=>third parameter is default false.
+=>event propogation-event bubbling(inside se outside)is false and event capturing(top to bottom) is true
+=>e.stopPropogation() bubble hokra outside element pe nhi jayega
+=>e.preventDefault()
+=>e.target-kis event se target araha hai
+=>e.target.parentNode-target ke parent ko select karne chahte hai
+=>remove()
+=>e.target.tagName
