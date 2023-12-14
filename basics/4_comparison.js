@@ -10,6 +10,7 @@
 // console.log("02">1); //true
 //try not to use diff.datatype comparison
 
+//comparison undefined with 0 always gives false
 //comparion with null does give unperdictable sometimes so avoid them
 // console.log(null>0);//false
 // console.log(null==0);//false
